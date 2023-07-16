@@ -1,0 +1,3 @@
+Oblivious DFA Code By:
+Saeed Sadeghian (sadeghis@gmail.com)
+Salman Niksefat (niksefat@aut.ac.ir)
